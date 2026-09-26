@@ -6,11 +6,9 @@
 
 _What real usage showed: numbers if your tool has analytics, counted behaviour if it does not. Put the signal that matters on screen._
 
-- **Primary signal:** 0 of 1 peer testers completed the core flow (Import → Invite → Launch) unprompted, and the one stall point identified was "Invite one teammate," the exact step tied to the baseline's weakest metric (1.4 seats per account).
-- **What moved:** Visitors explored meaningfully once in: 4.17 views per visit and 6m 2s average duration suggest people didn't bounce immediately, they clicked around and spent real time on the product.
-- **What didn't:** A 33% bounce rate means a third of visitors left after a single screen. More importantly, 0 of 1 peer testers got past the invite step without help, directly contradicting the M2 hypothesis that a guided path alone would drive activation. The friction is concentrated at team invite, the same seat-adoption problem the original baseline metrics (1.4 seats/account) were meant to test.
-
-_Analytics snapshot: visitors 6; page views 25; views per visit 4.17; duration 6m 2s; bounce 33._
+- **Primary signal:** 0 of 1 peer testers completed the core flow unprompted, and the identified a pain-pont was the "Invite one teammate" page, which ties directly to the baseline metric of 1.4 seats per account.
+- **What moved:** 4.17 views per visit and 6m 2s average duration show people explored the product rather than leaving immediately.
+- **What didn't:** 33% bounce rate, and the one peer tester who tried the flow got stuck at a weak point.
 
 _Observed behaviour: reach 1; core action 0; stall point Invite one teammate; explained away NA; own first run _____._
 
@@ -22,11 +20,11 @@ _Observed behaviour: reach 1; core action 0; stall point Invite one teammate; ex
 
 ## Peer feedback
 
-I was not clear what would be the outcome of inviting my team at this step
+1 peer replied on the thread. "Was not clear what would be the outcome of inviting my team at this step" for the "Invite one teammate" page.
 
 ## The recommendation
 
-**Decision:** ☐ Go  ☐ Iterate  ☐ Kill
+**Decision:** ☐ Go  ☑ Iterate  ☐ Kill
 
 _The evidence that justifies the call:_
 
